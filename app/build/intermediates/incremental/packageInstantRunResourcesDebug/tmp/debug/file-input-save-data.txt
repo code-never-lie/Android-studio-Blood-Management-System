@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed May 29 10:38:42 PKT 2019
+0.baseType=DIRECTORY
+0.base=F\:\\AndroidProject\\BloodManagementSystem\\BloodManagementSystem\\app\\build\\intermediates\\merged_assets\\debug\\out
+0.path=crashlytics-build.properties
+0.set=ASSET
+count=1

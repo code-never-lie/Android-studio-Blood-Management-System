@@ -1,0 +1,4 @@
+#Wed May 29 10:49:19 PKT 2019
+base.0=F\:\\AndroidProject\\BloodManagementSystem\\BloodManagementSystem\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "703224881330",
+    "firebase_url": "https://blood-managment-system.firebaseio.com",
+    "project_id": "blood-managment-system",
+    "storage_bucket": "blood-managment-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703224881330:android:4620a65fadc06479",
+        "android_client_info": {
+          "package_name": "com.uol.bloodmanagementsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703224881330-a33kjlbuhm7ljq0lc13f235759m76hnj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uol.bloodmanagementsystem",
+            "certificate_hash": "53a2eb32b3c7174dd4e2670d839ff0658eee2c8c"
+          }
+        },
+        {
+          "client_id": "703224881330-n6qg5pdg6pnn6h44ng0c5kujmu5go6m5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6XrRk2KAwfjG8fhiMP6dYoo2ITGTV_94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703224881330-n6qg5pdg6pnn6h44ng0c5kujmu5go6m5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

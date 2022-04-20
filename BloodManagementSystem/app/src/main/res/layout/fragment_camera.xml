@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CameraFragment"
+    android:background="@android:color/white">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text=""
+        android:textSize="20sp"/>
+
+    <ImageButton
+        android:id="@+id/galleryButton"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:src="@drawable/gallery"
+        android:layout_marginTop="100dp"
+        android:background="@android:color/white"/>
+
+    <ImageButton
+        android:id="@+id/cameraButton"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:src="@drawable/camera"
+        android:layout_marginTop="230dp"
+        android:background="@android:color/white"/>
+
+    <ImageButton
+        android:id="@+id/mapsButton"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:src="@drawable/maps"
+        android:layout_marginTop="350dp"
+        android:background="@android:color/white"/>
+
+
+</FrameLayout>

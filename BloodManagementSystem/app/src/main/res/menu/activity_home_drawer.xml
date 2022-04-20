@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_menu_profile"
+            android:title="Profile" />
+        <item
+            android:id="@+id/nav_donors"
+            android:icon="@drawable/ic_menu_donor"
+            android:title="Donors" />
+        <item
+            android:id="@+id/nav_add_donor"
+            android:icon="@drawable/ic_menu_add"
+            android:title="Add Donor" />
+        <item
+            android:id="@+id/nav_contact"
+            android:icon="@drawable/ic_menu_contact"
+            android:title="Chat Box" />
+        <item
+            android:id="@+id/nav_video"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Camera" />
+
+    </group>
+
+</menu>
